@@ -41,7 +41,7 @@ body{
 }
 
 p{
-    color: var(--white);
+    color: white;
     font-family: 'Lexend Deca', sans-serif;
     padding: 1rem 0 2rem;
 }
